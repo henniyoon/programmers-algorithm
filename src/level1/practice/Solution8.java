@@ -1,4 +1,4 @@
-package level1;
+package level1.practice;
 /**
  *  하샤드 수
  */

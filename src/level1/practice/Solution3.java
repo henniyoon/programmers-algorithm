@@ -1,4 +1,4 @@
-package level1;
+package level1.practice;
 /**
  *  x만큼 간격이 있는 n개의 숫자
  */

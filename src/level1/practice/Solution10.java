@@ -1,4 +1,4 @@
-package level1;
+package level1.practice;
 /**
  *  제일 작은 수 제거하기
  */

@@ -1,4 +1,4 @@
-package level1;
+package level1.practice;
 /**
  *  행렬의 덧셈
  */
